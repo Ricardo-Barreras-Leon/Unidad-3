@@ -1,0 +1,5 @@
+1|Pantalon Ancho|500|Pantalon
+2|Playera de playa|279|Playera
+3|Anillo|110|Joyeria
+4|Culsera de Obsidiana|320|Joyeria
+5|Sudadera para Frio|540|Ropa de frio
