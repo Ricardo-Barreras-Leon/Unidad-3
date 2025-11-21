@@ -1,3 +1,8 @@
+#CBTIS 89
+#Barreras Leon Ricardo
+#Grupo 3°B T.M
+#Proyecto Final: Es un software para venta de ropa
+
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
@@ -149,4 +154,5 @@ btn_acerca.pack(pady=10)
 # -------------------------
 # INICIO APP
 # -------------------------
+
 ventana.mainloop()
